@@ -1,0 +1,270 @@
+{
+    "onboardingScreen": {
+        "tapBack": "ऐप से बाहर निकलने के लिए फिर से टैप करें",
+        "title1": "अपना गंतव्य खोजें",
+        "title2": "स्कैन क्यू आर कोड",
+        "title3": "अपनी सवारी शुरू करें",
+        "next": "अगला",
+        "skip": "छोडना",
+        "login": "लॉग इन करें"
+    },
+    "loginScreen": {
+        "tapBack": "ऐप से बाहर निकलने के लिए फिर से टैप करें",
+        "rideCityRider": "सिटी राइडर के साथ सवारी",
+        "login": "लॉग इन करें",
+        "welcomeBack": "आपका स्वागत है, कृपया अपना खाता लॉगिन करें",
+        "mobileNumber": "मोबाइल नंबर",
+        "enterMobileNumber": "अपना मोबाइल संख्या दर्ज करे",
+        "search": "खोज",
+        "close": "बंद करना",
+        "byContinuing": "जारी रखने से आप सहमत हैं",
+        "termsCondition": "नियम व शर्तें",
+        "rider": "सिटी राइडर की।"
+    },
+    "registerScreen": {
+        "rideCityRider": "सिटी राइडर के साथ सवारी",
+        "register": "पंजीकरण करवाना",
+        "welcomeBack": "आपका स्वागत है, कृपया अपना खाता बनाएं",
+        "name": "नाम",
+        "enterName": "अपना नाम दर्ज करें",
+        "emailAddress": "मेल पता",
+        "enterEmailAddress": "अपना ईमेल पता दर्ज करें",
+        "mobileNumber": "मोबाइल नंबर",
+        "enterMobileNumber": "अपना मोबाइल संख्या दर्ज करे"
+    },
+    "otpScreen": {
+        "verification": "ओटीपी सत्यापन",
+        "confirmationCode": "आपके लिए पुष्टिकरण कोड भेजा गया है",
+        "mobileNumber": "मोबाइल नंबर",
+        "verify": "सत्यापित करना",
+        "didGet": "ओटीपी नहीं मिला?",
+        "resend": "ओटीपी पुनः भेजें"
+    },
+    "bottomTab": {
+        "tapBack": "ऐप से बाहर निकलने के लिए फिर से टैप करें"
+    },
+    "homeScreen": {
+        "whereDoYou": "आप कहाँ जाना चाहते हैं?",
+        "range": "श्रेणी",
+        "goDetail": "विस्तार से जाना",
+        "unlock": "अनलॉक",
+        "scootersAvailable": "स्कूटर उपलब्ध हैं",
+        "battery": "बैटरी"
+    },
+    "searchScreen": {
+        "typeSearch": "खोजने के लिए लिखें",
+        "currentLocation": "मेरे वर्तमान स्थान का उपयोग करें",
+        "recentlySearched": "हाल ही में खोजा गया",
+        "clearAll": "सभी साफ करें"
+    },
+    "searchResultScreen": {
+        "scootersAvailable": "स्कूटर उपलब्ध हैं",
+        "battery": "बैटरी",
+        "range": "श्रेणी",
+        "goDetail": "विस्तार से जाना"
+    },
+    "detailScreen": {
+        "readyToGo": "जाने के लिए तैयार",
+        "batteryLevel": "बैटरी का स्तर",
+        "rangeUpTo": "रेंज अप तक",
+        "rent": "किराया",
+        "fixedRent": "नियत किराया",
+        "perKm": "केएम द्वारा",
+        "pauseMin": "रोकना/मिनट",
+        "parkingRules": "पार्किंग नियम",
+        "parkInCity": "सिटी राइडर ज़ोन में पार्क",
+        "doNotPark": "निजी क्षेत्र में पार्क न करें",
+        "unlockNow": "अभी खोलें",
+        "getDirection": "दिशा प्राप्त करें"
+    },
+    "notificationScreen": {
+        "notification": "अधिसूचना",
+        "remove": "अधिसूचना हटा दी गई।",
+        "noNotification": "कोई नई अधिसूचना नहीं"
+    },
+    "scanScreen": {
+        "scanUnlock": "अनलॉक करने के लिए स्कैन करना",
+        "scanQr": "स्कैन QR कोड जो आपको चक्र के पीछे मिलेगा",
+        "havingIssue": "मुद्दा है?",
+        "enterCodeManually": "कोड मैनुअल तरीके से दर्ज करें"
+    },
+    "securityDepositScreen": {
+        "securityDeposit": "सुरक्षा जमा राशि",
+        "description": "यह केवल भुगतान सुरक्षा के लिए है, जब भी आप चाहें, यह पूरी तरह से वापसी योग्य होगा ",
+        "payNow": "अब भुगतान करें",
+        "later": "बाद में"
+    },
+    "walletScreen": {
+        "wallet": "बटुआ",
+        "availableBalance": "उपलब्ध शेष राशि",
+        "addMoney": "पैसे जोड़ें",
+        "recentTransaction": "हाल ही में लेन -देन"
+    },
+    "receiptScreen": {
+        "youArePaid": "आपको भुगतान किया जाता है",
+        "rideStartLocation": "राइड स्टार्ट लोकेशन",
+        "rideEndLocation": "राइड एंड लोकेशन",
+        "purpose": "उद्देश्य",
+        "paymentMethod": "भुगतान विधि",
+        "paymentDate": "भुगतान तिथि",
+        "paymentTime": "भुगतान का समय",
+        "cycleNo": "साइकिल नं",
+        "receiptNo": "रसीद संख्या",
+        "name": "नाम",
+        "rideTime": "सवारी का समय",
+        "needHelp": "और अधिक मदद की आवश्यकता है?",
+        "contactUs": "संपर्क करें"
+    },
+    "addMoneyScreen": {
+        "addMoney": "पैसे जोड़ें",
+        "enterAmount": "राशि डालें",
+        "add": "जोड़ना"
+    },
+    "creditCardScreen": {
+        "creditCard": "क्रेडिट कार्ड",
+        "enterCardDetails": "अपना कार्ड विवरण दर्ज करें",
+        "name": "कार्ड पर नाम",
+        "cardNo": "कार्ड संख्या",
+        "enterName": "कार्ड पर नाम दर्ज करें",
+        "enterCard": "अपना कार्ड नंबर दर्ज करें",
+        "expiryDate": "समाप्ति तिथि",
+        "enterCvv": "कोड",
+        "payment": "अब भुगतान करें"
+    },
+    "successfullyAddedMoneyScreen": {
+        "added": "जोड़ा",
+        "description": "बधाई हो, आपका पैसा बटुए में सफलतापूर्वक जुड़ गया",
+        "backToHome": "घर वापिस जा रहा हूँ",
+        "needHelp": "समस्या हो रही है? संपर्क करें"
+
+    },
+
+    "successScreen": {
+        "enjoyYourRide": "अपनी सवारी का आनंद लें!",
+        "yourBike": "आपकी बाइक सफलतापूर्वक अनलॉक करें",
+        "startRide": "सवारी शुरू करें"
+    },
+    "rideScreen": {
+        "range": "श्रेणी",
+        "batteryLevel": "बैटरी का स्तर",
+        "timeUsed": "समय का इस्तेमाल किया",
+        "traveled": "कूच",
+        "pause": "रोकना",
+        "endRide": "अंत -सवारी",
+        "resume": "फिर शुरू करना",
+        "ridePaused": "सवारी करना",
+        "pausedTime": "रुका हुआ समय",
+        "noCost": "1 मिनट तक कोई लागत नहीं।फिर $ 0.10/मिनट",
+        "dropPoint": "निकटतम बिंदु पर ड्रॉप",
+        "makeSurePark": "*सुनिश्चित करें कि आप केवल सिटी राइडर ज़ोन में पार्क करते हैं",
+        "back": "पीछे",
+        "confirm": "पुष्टि करना"
+    },
+    "confirmScreen": {
+        "rideEnded": "सवारी समाप्त हो गई",
+        "burned": "कैलोरी बर्न:",
+        "rideTime": "सवारी का समय",
+        "pauseTime": "विराम का वक्त",
+        "traveled": "कूच",
+        "pickLocation": "लेने की जगह",
+        "dropLocation": "ड्रॉप अप लोकेशन",
+        "fixedRent": "नियत किराया",
+        "rideFare": "किमी सवारी किराया",
+        "pauseFare": "खतरे को रोकना",
+        "paidFromWallet": "बटुए से भुगतान किया गया",
+        "question": "आपकी सवारी कैसी थी?",
+        "shareExperience": "अपने अनुभव को हमारे साथ साझा करें",
+        "giveRate": "दर देना"
+    },
+    "giveRateBottomSheet": {
+        "giveRate": "दर देना",
+        "description": "कृपया दर दें और अपनी सवारी का अनुभव हमारे साथ साझा करें",
+        "submit": "जमा करना",
+        "cancel": "रद्द करना"
+    },
+    "profileScreen": {
+        "profile": "प्रोफ़ाइल",
+        "rideTaken": "सवारी की गई सवारी",
+        "distance": "दूरी",
+        "calories": "कैलोरी",
+        "rideHistory": "सवारी इतिहास",
+        "referEarn": "देखें और अर्जित करना",
+        "language": "भाषा",
+        "appSettings": "एप्लिकेशन सेटिंग",
+        "fAQs": "पूछे जाने वाले प्रश्न",
+        "privacyPolicy": "गोपनीयता नीति",
+        "termsCondition": "नियम व शर्तें",
+        "helpSupport": "मदद समर्थन",
+        "logout": "लॉग आउट"
+    },
+    "editProfileScreen": {
+        "editProfile": "प्रोफ़ाइल संपादित करें",
+        "name": "नाम",
+        "enterName": "अपना नाम दर्ज करें",
+        "email": "मेल पता",
+        "enterEmail": "अपना ईमेल पता दर्ज करें",
+        "mobile": "मोबाइल नंबर",
+        "enterMobile": "अपना मोबाइल संख्या दर्ज करे",
+        "update": "अद्यतन",
+        "changeProfile": "प्रोफ़ाइल फोटो बदलें",
+        "camera": "कैमरा",
+        "gallery": "गेलरी",
+        "remove": "निकालना",
+        "removeImage": "प्रोफ़ाइल फोटो हटा दिया गया।",
+        "deny": "आपने कैमरा एक्सेस करने से इनकार कर दिया है !!!"
+    },
+    "rideHistoryScreen": {
+        "rideHistory": "सवारी इतिहास",
+        "giveRate": "दर देना"
+    },
+    "referAndEarnScreen": {
+        "referAndEarn": "देखें और अर्जित करना",
+        "writeMessageHere": "यहाँ संदेश लिखें",
+        "referUpTo": "देखें और $ 30 तक कमाएं",
+        "shareThisLink": "इस लिंक को अपने दोस्तों के लिए साझा करें, जब वे साइन इन करते हैं और पहली सवारी करते हैं तो आपको मिल जाएंगे",
+        "shareLinkVia": "के माध्यम से लिंक साझा करें",
+        "toastCopy": "कॉपी किया गया"
+    },
+    "languageScreen": {
+        "language": "भाषा",
+        "update": "अद्यतन"
+    },
+    "appSettingsScreen": {
+        "appSettings": "एप्लिकेशन सेटिंग",
+        "allowNotification": "अधिसूचना की अनुमति दें",
+        "applicationUpdate": "अनुप्रयोग अद्यतन",
+        "policyCommunity": "नीति और सामुदायिक",
+        "darkMode": "डार्क मोड"
+    },
+    "fAQsScreen": {
+        "fAQs": "पूछे जाने वाले प्रश्न",
+        "question1": "सवारी कैसे बुक करें?",
+        "question2": "वॉलेट में पैसे कैसे जोड़ें?",
+        "question3": "भाषा कैसे बदलें?",
+        "question4": "क्या होगा अगर साइकिल दुर्घटनाग्रस्त हो गई?",
+        "question5": "एक सवारी कैसे समाप्त करें?",
+        "question6": "क्या होगा अगर साइकिल काम करना बंद कर देती है?"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "नियम व शर्तें"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "गोपनीयता नीति",
+        "introduction": "परिचय"
+    },
+    "helpScreen": {
+        "helpSupport": "मदद समर्थन",
+        "name": "नाम",
+        "enterName": "अपना नाम दर्ज करें",
+        "emailAddress": "मेल पता",
+        "enterEmailAddress": "अपना ईमेल पता दर्ज करें",
+        "message": "संदेश",
+        "writeMessageHere": "यहाँ संदेश लिखें",
+        "submit": "जमा करना"
+    },
+    "logoutModal": {
+        "areYouSure": "क्या आप लॉग आउट करना चाहते हैं?",
+        "cancel": "रद्द करना",
+        "logout": "लॉग आउट"
+    }
+}

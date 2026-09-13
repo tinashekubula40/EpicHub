@@ -1,0 +1,268 @@
+{
+    "onboardingScreen": {
+        "tapBack": "Ketuk Kembali Lagi untuk Keluar dari Aplikasi",
+        "title1": "Temukan tujuan Anda",
+        "title2": "Pindai kode QR",
+        "title3": "Mulailah perjalanan Anda",
+        "next": "Berikutnya",
+        "skip": "Melewati",
+        "login": "Gabung"
+    },
+    "loginScreen": {
+        "tapBack": "Ketuk Kembali Lagi untuk Keluar dari Aplikasi",
+        "rideCityRider": "Naik dengan City Rider",
+        "login": "Gabung",
+        "welcomeBack": "Selamat datang kembali, silakan login akun Anda",
+        "mobileNumber": "Nomor handphone",
+        "enterMobileNumber": "Masukkan nomor ponsel Anda",
+        "search": "Mencari",
+        "close": "Menutup",
+        "byContinuing": "Dengan melanjutkan, Anda setuju dengan",
+        "termsCondition": "Syarat dan Kondisi",
+        "rider": "pengendara kota."
+    },
+    "registerScreen": {
+        "rideCityRider": "Naik dengan City Rider",
+        "register": "Daftar",
+        "welcomeBack": "Selamat datang kembali, silakan buat akun Anda",
+        "name": "Nama",
+        "enterName": "Masukkan nama Anda",
+        "emailAddress": "Alamat email",
+        "enterEmailAddress": "Masukkan alamat email Anda",
+        "mobileNumber": "Nomor handphone",
+        "enterMobileNumber": "Masukkan nomor ponsel Anda"
+    },
+    "otpScreen": {
+        "verification": "Verifikasi OTP",
+        "confirmationCode": "Kode konfirmasi telah dikirimkan kepada Anda",
+        "mobileNumber": "nomor handphone",
+        "verify": "Memeriksa",
+        "didGet": "Tidak mendapatkan OTP?",
+        "resend": "resendOtp"
+    },
+    "bottomTab": {
+        "tapBack": "Ketuk Kembali Lagi untuk Keluar dari Aplikasi"
+    },
+    "homeScreen": {
+        "whereDoYou": "Ke mana kamu mau pergi?",
+        "range": "Jangkauan",
+        "goDetail": "Pergi detail",
+        "unlock": "Membuka kunci",
+        "scootersAvailable": "skuter tersedia",
+        "battery": "Baterai"
+    },
+    "searchScreen": {
+        "typeSearch": "Ketik untuk mencari",
+        "currentLocation": "Gunakan lokasi saya saat ini",
+        "recentlySearched": "Baru -baru ini dicari",
+        "clearAll": "Bersihkan semua"
+    },
+    "searchResultScreen": {
+        "scootersAvailable": "skuter tersedia",
+        "battery": "Baterai",
+        "range": "Jangkauan",
+        "goDetail": "Pergi detail"
+    },
+    "detailScreen": {
+        "readyToGo": "Siap untuk berangkat",
+        "batteryLevel": "Level baterai",
+        "rangeUpTo": "Berkisar hingga",
+        "rent": "Menyewa",
+        "fixedRent": "Sewa tetap",
+        "perKm": "Oleh km",
+        "pauseMin": "Jeda/mnt",
+        "parkingRules": "Aturan parkir",
+        "parkInCity": "Taman di Zona Pengendara Kota",
+        "doNotPark": "Jangan parkir di area pribadi",
+        "unlockNow": "Buka Kunci Sekarang",
+        "getDirection": "Dapatkan arah"
+    },
+    "notificationScreen": {
+        "notification": "Pemberitahuan",
+        "remove": "Pemberitahuan dihapus.",
+        "noNotification": "Tidak ada pemberitahuan baru"
+    },
+    "scanScreen": {
+        "scanUnlock": "Pindai untuk membuka kunci",
+        "scanQr": "Pindai kode QR yang akan Anda temukan kembali dari siklus",
+        "havingIssue": "Memiliki masalah?",
+        "enterCodeManually": "Masukkan kode secara manual"
+    },
+    "securityDepositScreen": {
+        "securityDeposit": "Uang jaminan",
+        "description": "Ini hanya untuk keamanan pembayaran, itu akan sepenuhnya dapat dikembalikan kapan pun Anda ingint ",
+        "payNow": "Bayar sekarang",
+        "later": "Nanti"
+    },
+    "walletScreen": {
+        "wallet": "Dompet",
+        "availableBalance": "Saldo Tersedia",
+        "addMoney": "Tambahkan uang",
+        "recentTransaction": "Transaksi terbaru"
+    },
+    "receiptScreen": {
+        "youArePaid": "Anda dibayar",
+        "rideStartLocation": "Lokasi Awal Perjalanan",
+        "rideEndLocation": "Lokasi Ride End",
+        "purpose": "Tujuan",
+        "paymentMethod": "Cara Pembayaran",
+        "paymentDate": "Tanggal pembayaran",
+        "paymentTime": "Waktu Pembayaran",
+        "cycleNo": "Siklus no",
+        "receiptNo": "No resi",
+        "name": "Nama",
+        "rideTime": "Waktu berkendara",
+        "needHelp": "butuh lebih banyak bantuan?",
+        "contactUs": "Hubungi kami"
+    },
+    "addMoneyScreen": {
+        "addMoney": "Tambahkan uang",
+        "enterAmount": "Masukan jumlah",
+        "add": "Menambahkan"
+    },
+    "creditCardScreen": {
+        "creditCard": "Kartu kredit",
+        "enterCardDetails": "Masukkan detail kartu Anda",
+        "name": "Nama di kartu",
+        "cardNo": "Nomor kartu",
+        "enterName": "Masukkan Nama di Kartu",
+        "enterCard": "Masukkan Nomor Kartu Anda",
+        "expiryDate": "Tanggal kadaluarsa",
+        "enterCvv": "kode",
+        "payment": "Bayar sekarang"
+    },
+    "successfullyAddedMoneyScreen": {
+        "added": "Ditambahkan",
+        "description": "Selamat, Uang Anda berhasil ditambahkan ke dompet",
+        "backToHome": "Kembali ke rumah",
+        "needHelp": "Mengalami masalah? Hubungi kami"
+    },
+    "successScreen": {
+        "enjoyYourRide": "Nikmati perjalanan Anda!",
+        "yourBike": "Sepeda Anda berhasil membuka kunci",
+        "startRide": "Mulai naik"
+    },
+    "rideScreen": {
+        "range": "Jangkauan",
+        "batteryLevel": "Level baterai",
+        "timeUsed": "Waktu digunakan",
+        "traveled": "Bepergian",
+        "pause": "Berhenti sebentar",
+        "endRide": "Perjalanan Akhir",
+        "resume": "Melanjutkan",
+        "ridePaused": "Naik berhenti",
+        "pausedTime": "Waktu yang dijeda",
+        "noCost": "Tidak ada biaya sampai 1 menit.Kemudian $ 0,10/menit",
+        "dropPoint": "Turun di titik terdekat",
+        "makeSurePark": "*Pastikan Anda hanya parkir di zona pengendara kota",
+        "back": "Kembali",
+        "confirm": "Mengonfirmasi"
+    },
+    "confirmScreen": {
+        "rideEnded": "Perjalanan berakhir",
+        "burned": "Kalori terbakar:",
+        "rideTime": "Waktu berkendara",
+        "pauseTime": "Jeda waktu",
+        "traveled": "Bepergian",
+        "pickLocation": "Lokasi penjemputan",
+        "dropLocation": "Lokasi penurunan",
+        "fixedRent": "Sewa tetap",
+        "rideFare": "KM Ride Fare",
+        "pauseFare": "Jeda bahaya",
+        "paidFromWallet": "Dibayar dari dompet",
+        "question": "Bagaimana perjalananmu?",
+        "shareExperience": "Bagikan pengalaman Anda dengan kami",
+        "giveRate": "Memberi tingkat"
+    },
+    "giveRateBottomSheet": {
+        "giveRate": "Memberi tingkat",
+        "description": "Tolong beri tarif dan bagikan pengalaman perjalanan Anda dengan kami",
+        "submit": "Kirim",
+        "cancel": "Membatalkan"
+    },
+    "profileScreen": {
+        "profile": "Profil",
+        "rideTaken": "Perjalanan diambil",
+        "distance": "Jarak",
+        "calories": "Kalori",
+        "rideHistory": "Sejarah naik",
+        "referEarn": "Merujuk dan mendapatkan",
+        "language": "Bahasa",
+        "appSettings": "Pengaturan aplikasi",
+        "fAQs": "FAQ",
+        "privacyPolicy": "Kebijakan pribadi",
+        "termsCondition": "Syarat dan Kondisi",
+        "helpSupport": "Bantuan & Dukungan",
+        "logout": "Keluar"
+    },
+    "editProfileScreen": {
+        "editProfile": "Sunting profil",
+        "name": "Nama",
+        "enterName": "Masukkan nama Anda",
+        "email": "Alamat email",
+        "enterEmail": "Masukkan alamat email Anda",
+        "mobile": "Nomor handphone",
+        "enterMobile": "Masukkan nomor ponsel Anda",
+        "update": "Memperbarui",
+        "changeProfile": "Ubah foto profil",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "remove": "Menghapus",
+        "removeImage": "Foto profil dihapus.",
+        "deny": "Anda telah ditolak untuk mengakses kamera !!!"
+    },
+    "rideHistoryScreen": {
+        "rideHistory": "Sejarah naik",
+        "giveRate": "Memberi tingkat"
+    },
+    "referAndEarnScreen": {
+        "referAndEarn": "Merujuk dan mendapatkan",
+        "writeMessageHere": "Tulis pesan di sini",
+        "referUpTo": "Merujuk dan mendapatkan hingga $ 30",
+        "shareThisLink": "Bagikan tautan ini ke teman Anda, setelah mereka masuk dan memesan perjalanan pertama yang akan Anda dapatkan",
+        "shareLinkVia": "Bagikan tautan melalui",
+        "toastCopy": "Disalin"
+    },
+    "languageScreen": {
+        "language": "Bahasa",
+        "update": "Memperbarui"
+    },
+    "appSettingsScreen": {
+        "appSettings": "Pengaturan aplikasi",
+        "allowNotification": "Izinkan pemberitahuan",
+        "applicationUpdate": "Pembaruan Aplikasi",
+        "policyCommunity": "Kebijakan & Komunitas",
+        "darkMode": "Mode gelap"
+    },
+    "fAQsScreen": {
+        "fAQs": "FAQ",
+        "question1": "Bagaimana cara memesan tumpangan?",
+        "question2": "Bagaimana cara menambahkan uang di dompet?",
+        "question3": "Bagaimana cara mengubah bahasa?",
+        "question4": "Bagaimana jika sepeda jatuh?",
+        "question5": "Bagaimana cara mengakhiri perjalanan?",
+        "question6": "Bagaimana jika sepeda berhenti bekerja?"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "Syarat dan Kondisi"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "Kebijakan pribadi",
+        "introduction": "Perkenalan"
+    },
+    "helpScreen": {
+        "helpSupport": "Bantuan & Dukungan",
+        "name": "Nama",
+        "enterName": "Masukkan nama Anda",
+        "emailAddress": "Alamat email",
+        "enterEmailAddress": "Masukkan alamat email Anda",
+        "message": "Pesan",
+        "writeMessageHere": "Tulis pesan di sini",
+        "submit": "Kirim"
+    },
+    "logoutModal": {
+        "areYouSure": "Apakah Anda yakin ingin keluar?",
+        "cancel": "Membatalkan",
+        "logout": "Keluar"
+    }
+}

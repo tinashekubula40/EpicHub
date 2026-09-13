@@ -1,0 +1,270 @@
+{
+    "onboardingScreen": {
+        "tapBack": "Tap back again to exit the App",
+        "title1": "Find your destination",
+        "title2": "Scan QR code ",
+        "title3": "Start your ride",
+        "next": "Next",
+        "skip": "Skip",
+        "login": "Login"
+    },
+    "loginScreen": {
+        "tapBack": "Tap back again to exit the App",
+        "rideCityRider": "Ride with city rider",
+        "login": "Login",
+        "welcomeBack": "Welcome back, please login your account",
+        "mobileNumber": "Mobile number",
+        "enterMobileNumber": "Enter your mobile number",
+        "search": "Search",
+        "close": "Close",
+        "byContinuing": "By continuing you are agree to the",
+        "termsCondition": "terms and condition",
+        "rider": "of the city rider."
+    },
+    "registerScreen": {
+        "rideCityRider": "Ride with city rider",
+        "register": "Register",
+        "welcomeBack": "Welcome back, please create your account",
+        "name": "Name",
+        "enterName": "Enter your name",
+        "emailAddress": "Email Address",
+        "enterEmailAddress": "Enter your email address",
+        "mobileNumber": "Mobile number",
+        "enterMobileNumber": "Enter your mobile number"
+    },
+    "otpScreen": {
+        "verification": "OTP verification",
+        "confirmationCode": "Confirmation code has been sent to you on your ",
+        "mobileNumber": "mobile number",
+        "verify": "Verify",
+        "didGet": "Didn't get the OTP? ",
+        "resend": "Resend OTP"
+    },
+    "bottomTab": {
+        "tapBack": "Tap back again to exit the App"
+    },
+    "homeScreen": {
+        "whereDoYou": "Where do you want to go?",
+        "range": "Range",
+        "goDetail": "Go detail",
+        "unlock": "Unlock ",
+        "scootersAvailable": "scooters available",
+        "battery": "Battery"
+    },
+    "searchScreen": {
+        "typeSearch": "Type to search",
+        "currentLocation": "Use my current location",
+        "recentlySearched": "Recently searched",
+        "clearAll": "Clear All"
+    },
+    "searchResultScreen": {
+        "scootersAvailable": "scooters available",
+        "battery": "Battery",
+        "range": "Range",
+        "goDetail": "Go detail"
+    },
+    "detailScreen": {
+        "readyToGo": "Ready to go",
+        "batteryLevel": "Battery level",
+        "rangeUpTo": "Range upto",
+        "rent": "Rent",
+        "fixedRent": "Fixed rent",
+        "perKm": "Per km",
+        "pauseMin": "Pause/min",
+        "parkingRules": "Parking rules",
+        "parkInCity": "Park in city rider zone",
+        "doNotPark": "Do not park in private area",
+        "unlockNow": "Unlock now",
+        "getDirection": "Get direction"
+    },
+    "notificationScreen": {
+        "notification": "Notification",
+        "remove": "Notification removed.",
+        "noNotification": "No new notification"
+    },
+    "scanScreen": {
+        "scanUnlock": "Scan to unlock",
+        "scanQr": "Scan QR code that you will find back of the cycle ",
+        "havingIssue": "Having issue?",
+        "enterCodeManually": "Enter code manually"
+    },
+    "securityDepositScreen": {
+        "securityDeposit": "Security deposit",
+        "description": "It's for payment security only, it will be fully refundable whenever you want ",
+        "payNow": "Pay now",
+        "later": "Later"
+    },
+    "walletScreen": {
+        "wallet": "Wallet",
+        "availableBalance": "Available balance",
+        "addMoney": "Add money",
+        "recentTransaction": "Recent transaction"
+    },
+    "receiptScreen": {
+        "youArePaid": "You are paid",
+        "rideStartLocation": "Ride Start location",
+        "rideEndLocation": "Ride End location",
+        "purpose": "Purpose",
+        "paymentMethod": "Payment method",
+        "paymentDate": "Payment Date",
+        "paymentTime": "Payment Time",
+        "cycleNo": "Cycle no",
+        "receiptNo": "Receipt no",
+        "name": "Name",
+        "rideTime": "Ride time",
+        "needHelp": "Need more help?",
+        "contactUs": "Contact us"
+    },
+    "addMoneyScreen": {
+        "addMoney": "Add money",
+        "enterAmount": "Enter amount",
+        "add": "Add"
+    },
+
+    "creditCardScreen": {
+        "creditCard": "Credit card",
+        "enterCardDetails": "Enter your card details",
+        "name": "Name on card",
+        "cardNo": "Card Number",
+        "enterName": "Enter name on card",
+        "enterCard": "Enter your card number",
+        "expiryDate": "Expiry date",
+        "enterCvv": "code",
+        "payment": "Pay now"
+    },
+    "successfullyAddedMoneyScreen": {
+        "added": "Added",
+        "description": "Congratulation, your Money successfully added in wallet ",
+        "backToHome": "Back to home",
+        "needHelp": "Having issue? Contact us"
+    },
+
+    "successScreen": {
+        "enjoyYourRide": "Enjoy your ride!",
+        "yourBike": "Your bike successfully unlock",
+        "startRide": "Start ride"
+    },
+    "rideScreen": {
+        "range": "Range",
+        "batteryLevel": "Battery level",
+        "timeUsed": "Time used",
+        "traveled": "Traveled",
+        "pause": "Pause",
+        "endRide": "End ride",
+        "resume": "Resume",
+        "ridePaused": "Ride paused",
+        "pausedTime": "Paused time",
+        "noCost": "No cost till 1 min. then $0.10/min",
+        "dropPoint": "Drop at nearest point",
+        "makeSurePark": "*Make sure you park in city rider zone only",
+        "back": "Back",
+        "confirm": "Confirm"
+    },
+    "confirmScreen": {
+        "rideEnded": "Ride ended",
+        "burned": "Calorie burned :",
+        "rideTime": "Ride time",
+        "pauseTime": "Pause time",
+        "traveled": "Traveled",
+        "pickLocation": "Pick up location",
+        "dropLocation": "Drop up location",
+        "fixedRent": "Fixed rent",
+        "rideFare": "Km ride fare",
+        "pauseFare": "Pause fare",
+        "paidFromWallet": "Paid from wallet",
+        "question": "How  was your ride? ",
+        "shareExperience": "share your experience with us",
+        "giveRate": "Give rate"
+    },
+    "giveRateBottomSheet": {
+        "giveRate": "Give rate",
+        "description": "Please  give rate and share your ride's experience with us ",
+        "submit": "Submit",
+        "cancel": "Cancel"
+    },
+    "profileScreen": {
+        "profile": "Profile",
+        "rideTaken": "Ride taken",
+        "distance": "Distance",
+        "calories": "Calories",
+        "rideHistory": "Ride history",
+        "referEarn": "Refer and earn",
+        "language": "Language",
+        "appSettings": "App settings",
+        "fAQs": "FAQs",
+        "privacyPolicy": "Privacy policy",
+        "termsCondition": "Terms and condition",
+        "helpSupport": "Help & support",
+        "logout": "Logout"
+    },
+    "editProfileScreen": {
+        "editProfile": "Edit profile",
+        "name": "Name",
+        "enterName": "Enter your name",
+        "email": "Email address",
+        "enterEmail": "Enter your email address",
+        "mobile": "Mobile number",
+        "enterMobile": "Enter your mobile number",
+        "update": "Update",
+        "changeProfile": "Change profile Photo",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "remove": "Remove",
+        "removeImage": "Profile photo removed.",
+        "deny": "You has denied to access Camera!!!"
+    },
+    "rideHistoryScreen": {
+        "rideHistory": "Ride history",
+        "giveRate": "Give rate"
+    },
+    "referAndEarnScreen": {
+        "referAndEarn": "Refer and earn",
+        "writeMessageHere": "Write message here",
+        "referUpTo": "Refer and earn up to $30",
+        "shareThisLink": "Share this link to your friends, after they sign in and book first ride you will get",
+        "shareLinkVia": "Share link via",
+        "toastCopy": "Copied"
+    },
+    "languageScreen": {
+        "language": "Language",
+        "update": "Update"
+    },
+    "appSettingsScreen": {
+        "appSettings": "App settings",
+        "allowNotification": "Allow notification",
+        "applicationUpdate": "Application update",
+        "policyCommunity": "Policy & community",
+        "darkMode": "Dark mode"
+    },
+    "fAQsScreen": {
+        "fAQs": "FAQs",
+        "question1": "How to book a ride?",
+        "question2": "How to add money in wallet?",
+        "question3": "How to change language?",
+        "question4": "What if bicycle got crashed?",
+        "question5": "How to end a ride?",
+        "question6": "What if bicycle stop working?"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "Terms and condition"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "Privacy policy",
+        "introduction": "Introduction"
+    },
+    "helpScreen": {
+        "helpSupport": "Help & support",
+        "name": "Name",
+        "enterName": "Enter your name",
+        "emailAddress": "Email Address",
+        "enterEmailAddress": "Enter your email address",
+        "message": "Message",
+        "writeMessageHere": "Write message here",
+        "submit": "Submit"
+    },
+    "logoutModal": {
+        "areYouSure": "Are you sure you want to logout?",
+        "cancel": "Cancel",
+        "logout": "Logout"
+    }
+}

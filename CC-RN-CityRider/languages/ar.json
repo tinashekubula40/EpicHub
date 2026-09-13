@@ -1,0 +1,268 @@
+{
+    "onboardingScreen": {
+        "tapBack": "اضغط مرة أخرى للخروج من التطبيق",
+        "title1": "ابحث عن وجهتك",
+        "title2": "مسح رمز الاستجابة السريعة",
+        "title3": "ابدأ رحلتك",
+        "next": "التالي",
+        "skip": "يتخطى",
+        "login": "تسجيل الدخول"
+    },
+    "loginScreen": {
+        "tapBack": "اضغط مرة أخرى للخروج من التطبيق",
+        "rideCityRider": "ركوب مع راكب المدينة",
+        "login": "تسجيل الدخول",
+        "welcomeBack": "مرحبًا بك مرة أخرى ، يرجى تسجيل الدخول إلى حسابك",
+        "mobileNumber": "رقم الهاتف المحمول",
+        "enterMobileNumber": "أدخل رقم هاتفك المحمول",
+        "search": "يبحث",
+        "close": "يغلق",
+        "byContinuing": "من خلال الاستمرار ، توافق على",
+        "termsCondition": "أحكام وشروط",
+        "rider": "من راكب المدينة."
+    },
+    "registerScreen": {
+        "rideCityRider": "ركوب مع راكب المدينة",
+        "register": "يسجل",
+        "welcomeBack": "مرحبًا بك مرة أخرى ، يرجى إنشاء حسابك",
+        "name": "اسم",
+        "enterName": "أدخل أسمك",
+        "emailAddress": "عنوان البريد الإلكتروني",
+        "enterEmailAddress": "أدخل عنوان بريدك الالكتروني",
+        "mobileNumber": "رقم الهاتف المحمول",
+        "enterMobileNumber": "أدخل رقم هاتفك المحمول"
+    },
+    "otpScreen": {
+        "verification": "التحقق من OTP",
+        "confirmationCode": "تم إرسال رمز التأكيد إليك على",
+        "mobileNumber": "رقم الهاتف المحمول",
+        "verify": "يؤكد",
+        "didGet": "لم تحصل على OTP؟",
+        "resend": "إعادة إرسال OTP"
+    },
+    "bottomTab": {
+        "tapBack": "اضغط مرة أخرى للخروج من التطبيق"
+    },
+    "homeScreen": {
+        "whereDoYou": "أين تريد أن تذهب؟",
+        "range": "يتراوح",
+        "goDetail": "اذهب التفاصيل",
+        "unlock": "الغاء القفل",
+        "scootersAvailable": "الدراجات البخارية المتاحة",
+        "battery": "بطارية"
+    },
+    "searchScreen": {
+        "typeSearch": "اكتب للبحث",
+        "currentLocation": "استخدم موقعي الحالي",
+        "recentlySearched": "تم تفتيشه مؤخرًا",
+        "clearAll": "امسح الكل"
+    },
+    "searchResultScreen": {
+        "scootersAvailable": "الدراجات البخارية المتاحة",
+        "battery": "بطارية",
+        "range": "يتراوح",
+        "goDetail": "اذهب بالتفصيل"
+    },
+    "detailScreen": {
+        "readyToGo": "جاهز للذهاب",
+        "batteryLevel": "مستوى البطارية",
+        "rangeUpTo": "المدى حتى",
+        "rent": "إيجار",
+        "fixedRent": "إيجار ثابت",
+        "perKm": "بواسطة KM",
+        "pauseMin": "وقفة/دقيقة",
+        "parkingRules": "قواعد وقوف السيارات",
+        "parkInCity": "بارك في منطقة رايدر",
+        "doNotPark": "لا تقف في المنطقة الخاصة",
+        "unlockNow": "افتح الآن",
+        "getDirection": "احصل على اتجاه"
+    },
+    "notificationScreen": {
+        "notification": "إشعار",
+        "remove": "الإخطار تمت إزالته.",
+        "noNotification": "لا يوجد إشعار جديد"
+    },
+    "scanScreen": {
+        "scanUnlock": "فحص لفتح",
+        "scanQr": "مسح رمز الاستجابة السريعة التي ستجدها مرة أخرى",
+        "havingIssue": "وجود مشكلة؟",
+        "enterCodeManually": "إدخال رمز يدويا"
+    },
+    "securityDepositScreen": {
+        "securityDeposit": "مبلغ التأمين",
+        "description": "إنه لأمن الدفع فقط ، سيكون قابلاً للاسترداد بالكامل وقتما تشاء ",
+        "payNow": "ادفع الآن",
+        "later": "لاحقاً"
+    },
+    "walletScreen": {
+        "wallet": "محفظة",
+        "availableBalance": "الرصيد المتوفر",
+        "addMoney": "إضافة المال",
+        "recentTransaction": "المعاملة الأخيرة"
+    },
+    "receiptScreen": {
+        "youArePaid": "أنت تدفع",
+        "rideStartLocation": "موقع بدء الركوب",
+        "rideEndLocation": "موقع نهاية الركوب",
+        "purpose": "غاية",
+        "paymentMethod": "طريقة الدفع او السداد",
+        "paymentDate": "تاريخ الدفع",
+        "paymentTime": "وقت الدفع",
+        "cycleNo": "دورة لا",
+        "receiptNo": "رقم الإيصال",
+        "name": "اسم",
+        "rideTime": "الوقت ركوب",
+        "needHelp": "هل تريد المزيد من المساعدة؟",
+        "contactUs": "اتصل بنا"
+    },
+    "addMoneyScreen": {
+        "addMoney": "إضافة المال",
+        "enterAmount": "أدخل المبلغ",
+        "add": "يضيف"
+    },
+    "creditCardScreen": {
+        "creditCard": "بطاقة إئتمان",
+        "enterCardDetails": "أدخل تفاصيل بطاقتك",
+        "name": "الاسم على البطاقة",
+        "cardNo": "رقم البطاقة",
+        "enterName": "أدخل الاسم على البطاقة",
+        "enterCard": "أدخل رقم بطاقتك",
+        "expiryDate": "تاريخ الانتهاء",
+        "enterCvv": "شفرة",
+        "payment": "ادفع الآن"
+    },
+    "successfullyAddedMoneyScreen": {
+        "added": "مضاف",
+        "description": "تهانينا ، تمت إضافة أموالك بنجاح في المحفظة",
+        "backToHome": "العودة إلى المنزل",
+        "needHelp": "هل تواجه مشكلة؟ اتصل بنا"
+    },
+    "successScreen": {
+        "enjoyYourRide": "استمتع برحلتك!",
+        "yourBike": "دراجتك تفتح بنجاح",
+        "startRide": "ابدأ الركوب"
+    },
+    "rideScreen": {
+        "range": "يتراوح",
+        "batteryLevel": "مستوى البطارية",
+        "timeUsed": "الوقت المستخدم",
+        "traveled": "سافرت",
+        "pause": "يوقف",
+        "endRide": "رحلة نهاية",
+        "resume": "سيرة ذاتية",
+        "ridePaused": "ركوب توقف مؤقتا",
+        "pausedTime": "توقف الوقت",
+        "noCost": "لا تكلفة حتى 1 دقيقة.ثم 0.10 دولار/دقيقة",
+        "dropPoint": "إسقاط في أقرب نقطة",
+        "makeSurePark": "*تأكد من الوقوف في منطقة رايدر فقط",
+        "back": "خلف",
+        "confirm": "يتأكد"
+    },
+    "confirmScreen": {
+        "rideEnded": "انتهى الركوب",
+        "burned": "احترقت السعرات الحرارية:",
+        "rideTime": "الوقت ركوب",
+        "pauseTime": "وقفة الوقت",
+        "traveled": "سافرت",
+        "pickLocation": "اختر موقعا",
+        "dropLocation": "إسقاط الموقع",
+        "fixedRent": "إيجار ثابت",
+        "rideFare": "كيلومتر ركوب الأجرة",
+        "pauseFare": "وقفة الخطر",
+        "paidFromWallet": "مدفوع من محفظة",
+        "question": "كيف كانت رحلتك؟",
+        "shareExperience": "شاركنا خبرتك",
+        "giveRate": "إعطاء معدل"
+    },
+    "giveRateBottomSheet": {
+        "giveRate": "إعطاء معدل",
+        "description": "يرجى إعطاء معدل ومشاركة تجربة رحلتك معنا",
+        "submit": "يُقدِّم",
+        "cancel": "يلغي"
+    },
+    "profileScreen": {
+        "profile": "حساب تعريفي",
+        "rideTaken": "ركوب",
+        "distance": "مسافة",
+        "calories": "سعرات حرارية",
+        "rideHistory": "ركوب التاريخ",
+        "referEarn": "الرجوع والكسب",
+        "language": "لغة",
+        "appSettings": "إعدادات التطبيقات",
+        "fAQs": "الأسئلة الشائعة",
+        "privacyPolicy": "سياسة الخصوصية",
+        "termsCondition": "أحكام وشروط",
+        "helpSupport": "ساعد لدعم",
+        "logout": "تسجيل خروج"
+    },
+    "editProfileScreen": {
+        "editProfile": "تعديل الملف الشخصي",
+        "name": "اسم",
+        "enterName": "أدخل أسمك",
+        "email": "عنوان البريد الإلكتروني",
+        "enterEmail": "أدخل عنوان بريدك الالكتروني",
+        "mobile": "رقم الهاتف المحمول",
+        "enterMobile": "أدخل رقم هاتفك المحمول",
+        "update": "تحديث",
+        "changeProfile": "تغيير صورة الملف الشخصي",
+        "camera": "آلة تصوير",
+        "gallery": "صالة عرض",
+        "remove": "يزيل",
+        "removeImage": "تمت إزالة صورة الملف الشخصي.",
+        "deny": "لقد أنكرت الوصول إلى الكاميرا !!!"
+    },
+    "rideHistoryScreen": {
+        "rideHistory": "ركوب التاريخ",
+        "giveRate": "إعطاء معدل"
+    },
+    "referAndEarnScreen": {
+        "referAndEarn": "الرجوع والكسب",
+        "writeMessageHere": "اكتب رسالة هنا",
+        "referUpTo": "الرجوع وكسب ما يصل إلى 30 دولار",
+        "shareThisLink": "شارك هذا الرابط إلى أصدقائك ، بعد تسجيل الدخول وحجز أول رحلة ستحصل عليها",
+        "shareLinkVia": "شارك الرابط عبر",
+        "toastCopy": "نسخ"
+    },
+    "languageScreen": {
+        "language": "لغة",
+        "update": "تحديث"
+    },
+    "appSettingsScreen": {
+        "appSettings": "إعدادات التطبيقات",
+        "allowNotification": "السماح للإشعار",
+        "applicationUpdate": "تحديث التطبيق",
+        "policyCommunity": "السياسة والمجتمع",
+        "darkMode": "الوضع المظلم"
+    },
+    "fAQsScreen": {
+        "fAQs": "الأسئلة الشائعة",
+        "question1": "كيف تحجز رحلة؟",
+        "question2": "كيف تضيف المال في محفظة؟",
+        "question3": "كيف تغير اللغة؟",
+        "question4": "ماذا لو تحطمت الدراجة؟",
+        "question5": "كيف تنهي رحلة؟",
+        "question6": "ماذا لو توقفت الدراجة عن العمل؟"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "أحكام وشروط"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "سياسة الخصوصية",
+        "introduction": "مقدمة"
+    },
+    "helpScreen": {
+        "helpSupport": "ساعد لدعم",
+        "name": "اسم",
+        "enterName": "أدخل أسمك",
+        "emailAddress": "عنوان البريد الإلكتروني",
+        "enterEmailAddress": "أدخل عنوان بريدك الالكتروني",
+        "message": "رسالة",
+        "writeMessageHere": "اكتب رسالة هنا",
+        "submit": "يُقدِّم"
+    },
+    "logoutModal": {
+        "areYouSure": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+        "cancel": "يلغي",
+        "logout": "تسجيل خروج"
+    }
+}
